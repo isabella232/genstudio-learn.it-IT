@@ -13,7 +13,7 @@ hidefromtoc: true
 source-git-commit: 9175c143ca7267bcba30b7fc39c464feeaf65157
 workflow-type: tm+mt
 source-wordcount: '490'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -80,11 +80,11 @@ Le soluzioni di Adobe utilizzate per la produttività creativa:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/creative-cloud.html?lang=it" title="CREATIVE CLOUD e ASSETS ESSENTIALS">CREATIVE CLOUD e ASSETS ESSENTIALS</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/creative-cloud.html" title="CREATIVE CLOUD e ASSETS ESSENTIALS">CREATIVE CLOUD e ASSETS ESSENTIALS</a>
           </p>
           <p class="is-size-6"><em>Scopri come integrare gli Assets Essentials con le librerie Adobe Creative Cloud.</em></p>
       </div>
-      <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/creative-cloud.html?lang=it" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+      <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/creative-cloud.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda il video</span>
       </a>
     </div>
@@ -94,14 +94,14 @@ Le soluzioni di Adobe utilizzate per la produttività creativa:
     <div class="card-image">
       <figure class="image x-is-16by9">
         <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/aem-desktop-app.html" title="Usare l’app desktop AEM" tabindex="-1">
-          <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/28868?format=jpeg" alt="Usare l’app desktop AEM">
+          <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/28868?format=jpeg" alt="Utilizzare l’app desktop AEM">
         </a>
       </figure>
     </div>
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/aem-desktop-app.html" title="Usare l’app desktop AEM">Utilizzare l’app desktop AEM</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/aem-desktop-app.html" title="Utilizzare l’app desktop AEM">Utilizzare l’app desktop AEM</a>
           </p>
           <p class="is-size-6"><em>Utilizza l’app desktop AEM per semplificare l’accesso a qualsiasi risorsa gestita nell’AEM sul desktop, per qualsiasi applicazione e formato di file.</em></p>
       </div>
