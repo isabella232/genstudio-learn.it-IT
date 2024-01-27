@@ -5,14 +5,14 @@ user-guide-description: Visualizza tutorial di Experience League su Adobe [!DNL 
 source-git-commit: f9b6251291b69de899cd691a29e8575621667a05
 workflow-type: tm+mt
 source-wordcount: '42'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
 
 # Adobe [!DNL GenStudio] {#tutorials}
 
-+ [[!DNL GenStudio] Tutorial](overview.md)
++ [Tutorial su [!DNL GenStudio]](overview.md)
 + [Flusso di lavoro e pianificazione](workflow-and-planning.md)
 + [Produttività creativa](creative-productivity.md)
 + [Produttività creativa con AEM Assets](creative-productivity-aemassets.md)
