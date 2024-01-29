@@ -12,7 +12,7 @@ jira: KT-14154
 source-git-commit: 3ded5e478ae37a582bd570fa0b6bf89a81d7580d
 workflow-type: tm+mt
 source-wordcount: '491'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -132,11 +132,11 @@ Adobi di soluzioni utilizzate per la pianificazione e il flusso di lavoro:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html" title="Configurare Adobe Workfront ed AEM Assets Essentials">Configurare Adobe Workfront ed AEM Assets Essentials</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=it" title="Configurare Adobe Workfront ed AEM Assets Essentials">Configurare Adobe Workfront ed AEM Assets Essentials</a>
           </p>
           <p class="is-size-6"><em>Scopri come configurare l’integrazione di Adobe Workfront e Assets Essentials</em></p>
       </div>
-      <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+      <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=it" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda il video</span>
       </a>
     </div>

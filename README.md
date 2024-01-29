@@ -2,12 +2,12 @@
 source-git-commit: 2b9678f7f2d11a464f40cd68984ac90a3b44c7dd
 workflow-type: tm+mt
 source-wordcount: '483'
-ht-degree: 0%
+ht-degree: 36%
 
 ---
-# Collaborare a un articolo
+# Contribuire con articoli
 
-Siamo pronti ad accogliere i contributi della nostra community e dei dipendenti di Adobe provenienti da team esterni alla documentazione.
+Accogliamo con interesse i contributi della nostra community e dei dipendenti Adobe esterni ai team di documentazione.
 
 ## Codice di condotta per open source Adobe
 
@@ -41,9 +41,9 @@ Se fai parte della community di Adobi e desideri creare un nuovo argomento o inv
 
 ### Strumenti
 
-I collaboratori della community possono utilizzare l’interfaccia utente di GitHub per apportare modifiche di base o eseguire un fork dell’archivio per i contributi importanti.
+I collaboratori della community possono utilizzare l’interfaccia utente di GitHub per apportare modifiche di base o creare una copia tramite fork dell’archivio e apportare contributi importanti.
 
-Per ulteriori informazioni, consulta la [Guida per i collaboratori per la documentazione di Adobe](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
+Per ulteriori informazioni, consulta la [Guida per i collaboratori per la documentazione di Adobe](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=it).
 
 ## Collaboratori interni
 
@@ -53,12 +53,12 @@ Se sei un autore tecnico, un responsabile di programma o uno sviluppatore del te
 
 Tutti gli articoli in questo archivio utilizzano Markdown aromatizzato su GitHub. Se non conosci Markdown, consulta:
 
-* [Nozioni di base sul markdown](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)
-* [Opuscolo riassuntivo stampabile sul markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+* [Nozioni di base su Markdown](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)
+* [Scheda di riferimento Markdown stampabile](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 ## Etichette
 
 Nell’archivio pubblico, alle richieste pull vengono assegnate etichette automatizzate per semplificare la gestione del flusso di lavoro delle richieste e aggiornarti sullo stato delle tue richieste:
 
 * **Modifica inviata all’autore**: l’autore è stato informato della richiesta pull in sospeso.
-* **ready-to-merge**: pronto per la revisione da parte del nostro team di revisione delle richieste pull.
+* **ready-to-merge**: la modifica è pronta per essere rivista dal team di revisione delle richieste pull.

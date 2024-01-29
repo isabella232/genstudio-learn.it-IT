@@ -121,11 +121,11 @@ Adobi di soluzioni utilizzate per l’attivazione e l’analisi dei contenuti:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/landing/experience-manager/headless/developer.html" title="Guida introduttiva al CMS headless dell’AEM">Guida introduttiva al CMS headless dell’AEM</a>
+              <a href="https://experienceleague.adobe.com/landing/experience-manager/headless/developer.html?lang=it" title="Guida introduttiva al CMS headless dell’AEM">Guida introduttiva al CMS headless dell’AEM</a>
           </p>
           <p class="is-size-6"><em>Tutto il necessario per scoprire il CMS headless dell’AEM per creare e distribuire applicazioni migliori ed esperienze più veloci.</em></p>
       </div>
-      <a href="https://experienceleague.adobe.com/landing/experience-manager/headless/developer.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+      <a href="https://experienceleague.adobe.com/landing/experience-manager/headless/developer.html?lang=it" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda il video</span>
       </a>
     </div>
