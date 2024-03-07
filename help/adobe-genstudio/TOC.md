@@ -2,19 +2,14 @@
 user-guide-title: Adobe [!DNL GenStudio]
 breadcrumb-title: Adobe [!DNL GenStudio]
 user-guide-description: Visualizza tutorial di Experience League su Adobe [!DNL GenStudio], una soluzione end-to-end per accelerare e semplificare la supply chain dei contenuti con intelligenza artificiale generativa e automazione intelligente.
-source-git-commit: f9b6251291b69de899cd691a29e8575621667a05
+source-git-commit: 66641d3560a1729e5a982ab70d523b0d82dbd28a
 workflow-type: tm+mt
-source-wordcount: '42'
-ht-degree: 4%
+source-wordcount: '27'
+ht-degree: 7%
 
 ---
 
 
 # Adobe [!DNL GenStudio] {#tutorials}
 
-+ [Tutorial su [!DNL GenStudio]](overview.md)
-+ [Flusso di lavoro e pianificazione](workflow-and-planning.md)
-+ [Produttività creativa](creative-productivity.md)
-+ [Produttività creativa con AEM Assets](creative-productivity-aemassets.md)
-+ [Agilità di marketing](marketing-agility.md)
-+ [Consegna e attivazione](delivery-and-activation.md)
++ [Tutorial su [!DNL GenStudio]](introduction.md)
